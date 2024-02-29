@@ -1,2 +1,2 @@
-# Sqlalchemy-Challenge
+# SQLAlchemy-Challenge
 Module 10 Asignment
